@@ -4,9 +4,9 @@ Denoising image using median filter
 
 Noisy Image:
 
-![Original Picture](lenna-noise.png)
+![Original Picture](DenoisingImage/lenna-noise.png)
 
 Denoised Image::
 
-![Original Picture](lenna-denoise.png)
+![Original Picture](DenoisingImage/results/task2_result.jpg)
 
